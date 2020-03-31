@@ -420,7 +420,7 @@ html,body
 body
 {
 	font-family: 'Open Sans', sans-serif;
-	color:#5c5c5c;
+	/* color:#5c5c5c; */
 	font-size:13px;
 	font-weight:300;
 	line-height:20px;
