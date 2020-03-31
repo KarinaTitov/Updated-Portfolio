@@ -801,7 +801,7 @@ footer
 	text-align: center;
 	font-size: 20px;
 	color:white;
-	vertical-align: middle;
+	/* vertical-align: middle; */
 	display: block;
 	font-weight: 600;
 	width:100%;
