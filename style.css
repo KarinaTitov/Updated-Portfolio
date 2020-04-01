@@ -1131,11 +1131,11 @@ footer
 {
 	background-image:url(assets/img/socials/facebook_W.png);
 }
-.twitter a
+.linkedin a
 {
-	background-image:url(assets/img/socials/twitter_B.png);
+	background-image:url(assets/img/socials/linkedin_B.png);
 }
-.twitter a:hover
+.linkedin a:hover
 {
 	background-image:url(assets/img/socials/twitter_W.png);
 }
@@ -1155,38 +1155,7 @@ footer
 {
 	background-image:url(assets/img/socials/plus_W.png);
 }
-.vimeo a
-{
-	background-image:url(assets/img/socials/vimeo_B.png);
-}
-.vimeo a:hover
-{
-	background-image:url(assets/img/socials/vimeo_W.png);
-}
-.flickr a
-{
-	background-image:url(assets/img/socials/flickr_B.png);
-}
-.flickr a:hover
-{
-	background-image:url(assets/img/socials/flickr_W.png);
-}
-.reddit a
-{
-	background-image:url(assets/img/socials/reddit_B.png);
-}
-.reddit a:hover
-{
-	background-image:url(assets/img/socials/reddit_W.png);
-}
-.orkut a
-{
-	background-image:url(assets/img/socials/orkut_B.png);
-}
-.orkut a:hover
-{
-	background-image:url(assets/img/socials/orkut_W.png);
-}
+
 .linkedin a
 {
 	background-image:url(assets/img/socials/linkedin_B.png);
@@ -1195,102 +1164,7 @@ footer
 {
 	background-image:url(assets/img/socials/linkedin_W.png);
 }
-.lastfm a
-{
-	background-image:url(assets/img/socials/lastfm_B.png);
-}
-.lastfm a:hover
-{
-	background-image:url(assets/img/socials/lastfm_W.png);
-}
-.gowalla a
-{
-	background-image:url(assets/img/socials/gowalla_B.png);
-}
-.gowalla a:hover
-{
-	background-image:url(assets/img/socials/gowalla_W.png);
-}
-.forrst a
-{
-	background-image:url(assets/img/socials/forrst_B.png);
-}
-.forrst a:hover
-{
-	background-image:url(assets/img/socials/forrst_W.png);
-}
-.evernote
-{
-	background-image:url(assets/img/socials/evernote_B.png);
-}
-.evernote a:hover
-{
-	background-image:url(assets/img/socials/evernote_W.png);
-}
-.dribbble a
-{
-	background-image:url(assets/img/socials/dribbble_B.png);
-}
-.dribbble a:hover
-{
-	background-image:url(assets/img/socials/dribbble_w.png);
-}
-.digg a
-{
-	background-image:url(assets/img/socials/digg_B.png);
-}
-.digg a:hover
-{
-	background-image:url(assets/img/socials/digg_W.png);
-}
-.deviantart a
-{
-	background-image:url(assets/img/socials/deviantart_B.png);
-}
-.deviantart a:hover
-{
-	background-image:url(assets/img/socials/deviantart_W.png);
-}
-.behance a
-{
-	background-image:url(assets/img/socials/behance_B.png);
-}
-.behance a:hover
-{
-	background-image:url(assets/img/socials/behance_W.png);
-}
-.zerply a
-{
-	background-image:url(assets/img/socials/zerply_B.png);
-}
-.zerply a:hover
-{
-	background-image:url(assets/img/socials/zerply_W.png);
-}
-.skype a
-{
-	background-image:url(assets/img/socials/skype_B.png);
-}
-.skype a:hover
-{
-	background-image:url(assets/img/socials/skype_W.png);
-}
-.yahoo a
-{
-	background-image:url(assets/img/socials/yahoo_B.png);
-}
-.yahoo a:hover
-{
-	background-image:url(assets/img/socials/yahoo_w.png);
-}
-.youTube a
-{
-	background-image:url(assets/img/socials/youtube_B.png);
-}
-.youTube a:hover
-{
-	background-image:url(assets/img/socials/youtube_W.png);
-}
+
 
 /*-----------------------------------------------------------------------------------*/
 /*	BLOG
