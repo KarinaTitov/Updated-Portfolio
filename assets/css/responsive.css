@@ -30,12 +30,7 @@
   }
   .visible-tablet
     {
-	background-image: url(assets/img/plus.png);
 	display:block !important;
-  }
-
-  div.mobile-menu.visible-tablet>a{
-	background-image: url(assets/img/plus.png);
   }
 
 html,body
@@ -294,11 +289,9 @@ footer{height:30px;}
 {
 	width:93%;
 }
-
 .menu-button-minus
 {
 	left:94%;
-	
 }
 .header-titles
 {
