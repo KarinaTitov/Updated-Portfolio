@@ -1,13 +1,4 @@
-/*-----------------------------------------------------------------------------------
 
-	Theme Name:Profession CV HTML Template
-	Description: Profession is a CV HTML Template with unlimited colors and super responsive design on all devices.
-	Author: PixFlow
-	Author URI: http://themeforest.net/user/PixFlow
-	Version: 1.0
-	Designed & Handcrafted by PixFlow
-
------------------------------------------------------------------------------------*/
 
 /*-----------------------------------------------------------------------------------*/
 /*	0.	CSS Reset 
@@ -756,6 +747,7 @@ footer
 .portfolio-post , .portfolio-post a img
 {
 	width: 295px;
+	height: 200px;
 }
 .item-image
 {
