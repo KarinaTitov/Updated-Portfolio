@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
-	<mailTo>pxflow@gmail.com</mailTo>
+	<mailTo>titovkarina@gmail.com</mailTo>
 	<subject>Mail sent from CV Template</subject>
 	<template>
 		Message sent from: [Name] &lt; [Sender] &gt;&#13;
