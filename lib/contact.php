@@ -1,13 +1,5 @@
 <?php
-/*
- * Name: Contact Script
- * URI: http://www.sacredpixel.com
- * Description: Handles contact form and send an email to configured address
- * Version: 1.0.2
- * Author: Mohsen Heydari
- * Author URI: http://www.sacredpixel.com
- */
- 
+
 	$ConfigPath = 'config.xml';
 	
 	//Check for configuration file
